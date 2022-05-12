@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "155-1555057_phone-icon-circle-ltblue-signo-de-correo-png.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "155-1555057_phone-icon-circle-ltblue-signo-de-correo-png@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "155-1555057_phone-icon-circle-ltblue-signo-de-correo-png@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
